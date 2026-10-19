@@ -1,0 +1,2 @@
+# premium-solder-jew-001-jewelry-solder-flow-point-and
+Tired of guessing which flux works best for each solder flow point, only to ruin a piece with a pitted joint? Stop wasting precious metal and bench time—the Jewelry Solder Flow Point and Flux Selection Log turns your trial-and-error into a repeatable, precision system.  This Notion template eliminates the guesswork from soldering by letting you log
